@@ -96,4 +96,4 @@ resource "aws_instance" "server" {
   }
   ```
 ### 7) provisioner
-- see in provisioner.md file
+- see in `provisioner.md` file
